@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/backgroud.jpg</file>
+        <file>image/setting.png</file>
+        <file>image/backgroud2.jpg</file>
+        <file>image/backgroud3.jpg</file>
+        <file>image/loginButton.png</file>
+        <file>image/sign_out_24px_516194_easyicon.net.ico</file>
+        <file>image/win7-dark.png</file>
+        <file>image/win7-light.png</file>
+        <file>image/win8-dark.png</file>
+        <file>image/win8-light.png</file>
+        <file>image/win10-dark.png</file>
+        <file>image/win10-light.png</file>
+        <file>image/win2008-dark.png</file>
+        <file>image/win2008-light.png</file>
+        <file>image/xp-dark.png</file>
+        <file>image/xp-light.png</file>
+        <file>image/connect-dark.png</file>
+        <file>image/connect-light.png</file>
+        <file>image/restart-dark.png</file>
+        <file>image/restart-light.png</file>
+        <file>image/shutdown-dark.png</file>
+        <file>image/shutdown-light.png</file>
+        <file>image/start-dark.png</file>
+        <file>image/start-light.png</file>
+        <file>image/black_backgroud.jpg</file>
+    </qresource>
+    <qresource prefix="/setting">
+        <file>setting/setting.xml</file>
+        <file>setting/setting.ini</file>
+        <file>setting/pki-resource.cer</file>
+    </qresource>
+    <qresource prefix="/lib">
+        <file>lib/IPHLPAPI.LIB</file>
+    </qresource>
+</RCC>

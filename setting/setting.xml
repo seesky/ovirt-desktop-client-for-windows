@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SystemSetting>
+	<DisplaySetting>
+		<ResolutionRatio>
+			<Support>
+                                <Ratio>800*600</Ratio>
+                                <Ratio>1024*768</Ratio>
+                                <Ratio>1280*720</Ratio>
+                                <Ratio>1280*768</Ratio>
+                                <Ratio>1280*800</Ratio>
+                                <Ratio>1280*960</Ratio>
+                                <Ratio>1280*1024</Ratio>
+                                <Ratio>1440*900</Ratio>
+                                <Ratio>1600*900</Ratio>
+                                <Ratio>1600*1200</Ratio>
+                                <Ratio>1680*1050</Ratio>
+                                <Ratio>1920*1080</Ratio>
+			</Support>
+			<Current>1920|1080</Current>
+		</ResolutionRatio>
+		<RefreshRate>60</RefreshRate>
+	</DisplaySetting>
+
+	<NetworkSetting>
+		<IpMode>1</IpMode>
+		<CurrentIP>
+			<IPAddress>192.168.1.137</IPAddress>
+			<Netmask>255.255.255.0</Netmask>
+			<Gateway>192.168.1.254</Gateway>
+			<DNS1>114.114.114.114</DNS1>
+			<DNS2>8.8.8.8</DNS2>
+		</CurrentIP>
+	</NetworkSetting>
+	
+	<ServerSetting>
+		<ServerIpAddress>192.168.1.98</ServerIpAddress>
+		<ServerCertificate>xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx</ServerCertificate>
+	</ServerSetting>
+</SystemSetting>
+
